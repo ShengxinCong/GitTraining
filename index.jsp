@@ -3,7 +3,7 @@
 <html>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
 <head>
-<title>试题库管理系统</title>
+<title>试题库管理系统试题库管理系统</title>
 <link href="CSS/style.css" rel="stylesheet">
 <script language="javascript">
 function check(form){
